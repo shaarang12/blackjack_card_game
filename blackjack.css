@@ -37,6 +37,15 @@ button{
     border-radius: 30px;
     transition: 0.5s;
 }
+#new{
+    background: #ff523b;
+    color: #fff;
+    padding: 10px 45px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition: 0.5s;
+}
+
 p{
     font-size: larger;
     padding: 0%;
